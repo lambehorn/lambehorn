@@ -6,19 +6,12 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">Привет, я lambe, начинающий Fullstack разработчик/div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 📫 Свяжитесь со мной: ivanygnenok@gmail.com
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Любопытный факт, я люблю высоко прынгать
   
 
 <br/>  
