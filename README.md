@@ -26,5 +26,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lambehorn&show_icons=true&locale=ru&layout=compact" alt="lambehorn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lambehorn&show_icons=true&locale=en" alt="lambehorn" /></p>
