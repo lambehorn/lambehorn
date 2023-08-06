@@ -3,6 +3,6 @@
 # Привет я Lambe начинающий fullstack разработчик
 
 ## Социальные сети
-[https://vk.com/lambehorn](![](https://media.discordapp.net/attachments/1137801702163103844/1137805472053874699/vk.png))
+![](https://media.discordapp.net/attachments/1137801702163103844/1137805472053874699/vk.png)
 
-https://github.com/anuraghazra/github-readme-stats.git
+
