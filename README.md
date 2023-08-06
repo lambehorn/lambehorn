@@ -48,10 +48,7 @@
 
 </td><td valign="top" width="49%">
 
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
