@@ -31,7 +31,7 @@
 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="Chart.js" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="Chart.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
