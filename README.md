@@ -5,7 +5,7 @@
 <h1 align="center">Привет 👋, я Lambe</h1>
 <h3 align="center">Начинающий Fullstack разработчик</h3>
 
-- 📝 Мой блог [https://t.me/+vOwgTSKvayA3NDgy](https://t.me/+vOwgTSKvayA3NDgy)
+- 📝 Мой блог в  [телеграмм](https://t.me/+vOwgTSKvayA3NDgy)
 
 - 📫 Моя почта **ivanygnenok@gmail.com**
 
