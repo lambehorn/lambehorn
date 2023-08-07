@@ -9,7 +9,7 @@
 
 - 📫 Моя почта **ivanygnenok@gmail.com**
 
-<h3 align="left">Свяжитесь со мной:</h3>
+### Свяжитесь со мной:
 <p align="left">
 <a href="https://t.me/Lambehorn" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1137827503243800676/1137827612555759696/telegram.png" alt="lambe_horn"  width="40" /></a> 
 <a href="https://vk.com/lambehorn" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1137827503243800676/1137827612794818680/vk.png" alt="lambe_horn"  width="40" /></a>
