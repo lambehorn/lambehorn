@@ -5,9 +5,9 @@
 <h1 align="center">Привет 👋, я Lambe</h1>
 <h3 align="center">Начинающий Fullstack разработчик</h3>
 
-- 📝 Мой блог в  [телеграмм](https://t.me/+vOwgTSKvayA3NDgy)
-- 👑 мой сервер в [дискорд](https://discord.gg/tBkGwu2Y9p)
-- 📫 Моя почта **ivanygnenok@gmail.com**
+- 📝 Блог в  [телеграмм](https://t.me/+vOwgTSKvayA3NDgy)
+- 👑 Сервер в [дискорд](https://discord.gg/tBkGwu2Y9p)
+- 📫 Почта **ivanygnenok@gmail.com**
 
 ### Свяжитесь со мной:
 <p align="left">
