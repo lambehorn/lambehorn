@@ -1,5 +1,5 @@
 
-![](https://media.discordapp.net/attachments/1137801702163103844/1137801765308342392/Frame_2.png?width=1440&height=405)
+![](https://media.discordapp.net/attachments/1137827503243800676/1138515097153700032/a2fdf1eb1640c0b4.png?width=1108&height=683)
 
 
 <h1 align="center">Привет 👋, я Lambe</h1>
