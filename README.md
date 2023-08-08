@@ -11,8 +11,8 @@
 
 ### Свяжитесь со мной:
 <p align="left">
-<a href="https://t.me/Lambehorn" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1137827503243800676/1137827612555759696/telegram.png" alt="lambe_horn"  width="40" /></a> 
-<a href="https://vk.com/lambehorn" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1137827503243800676/1137827612794818680/vk.png" alt="lambe_horn"  width="40" /></a>
+<a href="https://t.me/Lambehorn" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1137827503243800676/1138544670738231396/telegram.png" alt="lambe_horn"  width="40" /></a> 
+<a href="https://vk.com/lambehorn" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1137827503243800676/1138544670515941426/vk.png" alt="lambe_horn"  width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
