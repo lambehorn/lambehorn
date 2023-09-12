@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lambehorn&show_icons=true&locale=en&" alt="lambehorn" /></p>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/lambehorn)
+[![codewars](https://www.codewars.com/users/lambehorn/badges/large)](https://www.codewars.com/users/lambehorn)
